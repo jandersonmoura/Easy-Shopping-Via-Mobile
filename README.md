@@ -11,8 +11,9 @@
   -Aprendi sobre Responsividade.
   
 <img src="https://github.com/jandersonmoura/Easy-Shopping-Via-Mobile/blob/master/computador.jpeg?raw=true"/>"
+<a href="https://jandersonmoura.github.io/Easy-Shopping-Via-Mobile/"></a>
  <br>
  <h2>Meu projeto responsivo , adaptado para celular</h2>
- <img src="https://github.com/jandersonmoura/Easy-Shopping-Via-Mobile/blob/master/celular.jpeg?raw=true/>
+ <img src="https://github.com/jandersonmoura/Easy-Shopping-Via-Mobile/blob/master/celular.jpeg?raw=true"/>
  
          
