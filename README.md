@@ -10,4 +10,6 @@
   -CSS
   -Aprendi sobre Responsividade.
   
-<img src="https://github.com/jandersonmoura/Easy-Shopping-Via-Mobile/blob/master/computador.jpeg?raw=true"/>
+<img src="https://github.com/jandersonmoura/Easy-Shopping-Via-Mobile/blob/master/computador.jpeg?raw=true"/>"
+  <a href="file:///C:/Users/JANDERSON/Downloads/projeto1/projeto%201/index.html></a>
+         
